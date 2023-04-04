@@ -1,4 +1,4 @@
-FROM ubuntu:21.04
+FROM registry.hub.docker.com/library/ubuntu:20.04
 ARG DEBIAN_FRONTEND=noninteractive
 ENV LANG=C.UTF-8 LC_ALL=C.UTF-8
 
