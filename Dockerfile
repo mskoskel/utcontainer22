@@ -13,6 +13,7 @@ nano \
 netcat \
 nmap \
 lynx \
+lftp \
 postgresql-client \
 ssh \
 stress \
